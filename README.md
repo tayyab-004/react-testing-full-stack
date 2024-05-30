@@ -1,18 +1,18 @@
 # Automated Testing for React Projects 🚀
 
-Automated testing plays a crucial role in ensuring the quality and reliability of React projects. By automating tests, developers can catch bugs early, streamline workflows, and deliver high-quality code consistently. This README.md file provides an overview of the importance of automated testing, a comparison with other testing types, how it boosts testing for React apps, and the significance of Vitest framework and Testing Library and more.
+Automated testing plays a crucial role in ensuring the quality and reliability of React projects. By automating tests, developers can catch bugs early, streamline workflows, and deliver high-quality code consistently. This repository provides an overview of the importance of automated testing, how it boosts testing for React apps, and the significance of Vitest framework and Testing Library and more.
 
 ## Outcomes of react testing 🔍
 
--> Master the fundamentals of testing React applications with React Testing Library.
--> Write maintainable, robust, and trustworthy tests that consistently deliver value.
--> Efficiently mock API responses with Mock Service Worker (MSW).
--> Mock data using @mswjs/data and @faker-js.
--> Simulate user events in a test environment.
--> Dive into advanced testing techniques involving authentication, state management, routing, etc.
--> Master refactoring techniques that pros use to make their code more readable and maintainable.
--> Learn from real-world examples and exercises that prepare you for the job.
--> Use ESLint to catch code quality issues early.
+- Master the fundamentals of testing React applications with React Testing Library.
+- Write maintainable, robust, and trustworthy tests that consistently deliver value.
+- Efficiently mock API responses with Mock Service Worker (MSW).
+- Mock data using @mswjs/data and @faker-js.
+- Simulate user events in a test environment.
+- Dive into advanced testing techniques involving authentication, state management, routing, etc.
+- Master refactoring techniques that pros use to make their code more readable and maintainable.
+- Learn from real-world examples and exercises that prepare you for the job.
+- Use ESLint to catch code quality issues early.
 
 ## Importance of Automated Testing 💡
 
