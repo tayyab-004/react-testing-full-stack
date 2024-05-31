@@ -2,6 +2,12 @@
 
 Automated testing plays a crucial role in ensuring the quality and reliability of React projects. By automating tests, developers can catch bugs early, streamline workflows, and deliver high-quality code consistently. This repository provides an overview of the importance of automated testing, how it boosts testing for React apps, and the significance of Vitest framework and Testing Library and more.
 
+## Table of Contents
+
+- [Outcomes of react testing](#outcomes-of-react-testing)
+- [Importance of Automated Testing](#importance-of-automated-testing)
+- [Getting Started with react testing](#getting-started-with-react-testing)
+
 ## Outcomes of react testing 🔍
 
 - Master the fundamentals of testing React applications with React Testing Library.
