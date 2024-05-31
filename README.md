@@ -4,9 +4,9 @@ Automated testing plays a crucial role in ensuring the quality and reliability o
 
 ## Table of Contents
 
-- [Outcomes of react testing](#outcomes-of-react-testing)
-- [Importance of Automated Testing](#importance-of-automated-testing)
-- [Getting Started with react testing](#getting-started-with-react-testing)
+1. [Outcomes of React Testing](#outcomes-of-react-testing)
+2. [Importance of Automated Testing](#importance-of-automated-testing)
+3. [Getting Started with React Testing](#getting-started-with-react-testing)
 
 ## Outcomes of react testing 🔍
 
