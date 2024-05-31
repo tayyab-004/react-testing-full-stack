@@ -8,7 +8,7 @@ Automated testing plays a crucial role in ensuring the quality and reliability o
 2. [Importance of Automated Testing](#importance-of-automated-testing)
 3. [Getting Started with React Testing](#getting-started-with-react-testing)
 
-## Outcomes of react testing 🔍
+## Outcomes of React Testing 🔍
 
 - Master the fundamentals of testing React applications with React Testing Library.
 - Write maintainable, robust, and trustworthy tests that consistently deliver value.
@@ -30,7 +30,7 @@ Automated testing is essential for modern software development practices. It hel
 
 ![Testing Basic](./src/assets/react-testing.png)
 
-## Getting Started with react testing 👩🏻‍💻
+## Getting Started with React Testing 👩🏻‍💻
 
 Follow these steps to set up and run Automated Testing for React Projects on your local machine:
 
